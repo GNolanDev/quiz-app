@@ -24,7 +24,8 @@ export const quizCreated = (quiz) => {
 
 // export selector
 export const selectQuizzes = (state) => state.quizzes;
+
 // export action creators
-export const { addQuiz } = quizzessSlice.actions;
+export const { addQuiz } = quizzesSlice.actions;
 // export reducer
-export default quizzessSlice.reducer;
+export default quizzesSlice.reducer;
