@@ -4,7 +4,7 @@
 
 A project set by Codecademy as part of the full stack path. Uses Create-React-App as a base, html templates and React Router basic framework given. My job was to create the slices and get all the components talking to each other via actions/reducers/selectors etc.
 
-This was a good overview of how React single page apps make use of <BrowserRouter> and Slices to organise the Redux Store, another chance to consider Separation of Concerns, and another opportunity to use build tools.
+This was a good overview of how React single page apps make use of \<BrowserRouter> and Slices to organise the Redux Store, another chance to consider Separation of Concerns, and another opportunity to use build tools.
 
 ## Technologies
 
